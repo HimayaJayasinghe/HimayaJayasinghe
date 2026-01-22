@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 3rd-year IT Undergrad @ SLIIT | FrontEnd Developer<br>🚀 Passionate about building online Hostal & Food management systems<br>🌐 Experienced in POS systems with a knack for server-side management<br>🎨 Crafting attractive UIs with Tailwind CSS | Dashboard & UI Designer<br>📚 Always learning, creating, and experimenting with new tech
+👨‍💻 4th-year IT Undergrad @ SLIIT | FrontEnd Developer<br>🚀 Passionate about building online Hostal & Food management systems<br>🌐 Experienced in POS systems with a knack for server-side management<br>🎨 Crafting attractive UIs with Tailwind CSS | Dashboard & UI Designer<br>📚 Always learning, creating, and experimenting with new tech
 
 
 ## 🌐 Socials:
